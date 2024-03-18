@@ -5,7 +5,7 @@ import Netflix1 from "./components/Netflix1";
 function App() {
   return (
     <div className="App">
-      <NetflixFile />
+      <Netflixfile />
     </div>
   );
 }
